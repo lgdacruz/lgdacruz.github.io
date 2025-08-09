@@ -3,7 +3,7 @@
 
 Política de Privacidade
 
-Nós, da [Nome do App], valorizamos a sua privacidade e estamos comprometidos em proteger os seus dados pessoais.
+Nós, da Barilandia, valorizamos a sua privacidade e estamos comprometidos em proteger os seus dados pessoais.
 
 Quais dados coletamos?
 
@@ -27,4 +27,4 @@ Alterações nesta política
 Podemos atualizar esta política para refletir mudanças no app ou na legislação.
 
 Contato
-Para dúvidas, entre em contato: [email@exemplo.com]
+Para dúvidas, entre em contato: lsgdc06@gmail.com
